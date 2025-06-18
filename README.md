@@ -1,5 +1,5 @@
 # Banknote-Authentication-App
-This project uses a Support Vector Machine (SVM) model to tell if a banknote is genuine or counterfeit using numbers taken from images.
+This project uses a Support Vector Machine (SVM) model to tell if a banknote is genuine or counterfeit using statistical features extracted from images of the banknotes.
 
 Files:
 1) banknote_authentication.ipynb – Main code in a Jupyter Notebook
